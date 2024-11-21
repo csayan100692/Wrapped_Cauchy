@@ -1,7 +1,7 @@
 
 
 
-PBTWRPCAUCHYCP1=function(x,alpha)
+PBTwcCP1=function(x,alpha)
 {
   library(circular)
   library(CircStats)
