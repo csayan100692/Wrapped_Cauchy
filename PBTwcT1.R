@@ -1,6 +1,6 @@
 
 
-PBTWRPCAUCHYT1=function(x,alpha)
+PBTwcT1=function(x,alpha)
 {
   library(circular)
   library(CircStats)
